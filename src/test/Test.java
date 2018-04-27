@@ -4,5 +4,6 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("kojima");
 		System.out.println("otsuka");
+		System.out.println("Eclipse All in Oneにしてみました2");
 	}
 }
